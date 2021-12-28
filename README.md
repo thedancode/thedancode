@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thedancode
 - 👀 I’m interested in automation and machine learning.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on any projects - particularly ones involving mathematical applications.
+- 💞️ I’m looking to collaborate on any project - particularly ones involving mathematical applications.
 - 📫 How to reach me ...
 
 <!---
